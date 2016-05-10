@@ -1,0 +1,10 @@
+body {
+	background: navy;
+}
+canvas {
+	background: #fff;
+	display: block;
+	margin: 50px auto 10px;
+	border-radius: 10px;
+	
+}
